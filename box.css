@@ -24,11 +24,10 @@ h6 {
  * Layout with margin, padding, border, width, and height only
  * (no flexbox or grid). */
 
- h1 {
-  color:rgb(0, 0, 0);
- }
-
-.card{
- background-color:rgb(185, 222, 217);
+h1 {
+  color: rgb(0, 0, 0);
 }
 
+.card-background{
+  color:darkslategray;
+}
